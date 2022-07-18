@@ -1,0 +1,16 @@
+
+\\\\\\\\\\\\\\ Anmie faces Image Dataset \\\\\\\\\\\\\\\\\\\
+
+link to dataset -- https://www.kaggle.com/code/splcher/starter-anime-face-dataset/data
+
+//how to use this dataset with code provided
+
+----My approch
+
+-- used kaggle API to directly fetch data from kaggle directly to my colab working enviornment
+
+
+/// or \\
+
+ -- download data into and upload into colab working enviornment as zip file 
+ -- then specify correct path in unzip command (!unzip 'file path')
