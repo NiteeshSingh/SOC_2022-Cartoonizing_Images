@@ -4,12 +4,12 @@ A repo to contain all the codes for the season of codes for summer of 2022 inclu
 
 ## Files Present
 
-### Pix2Pix for Cartoonizing Images
+### Pix2Pix_for_Cartoonizing_Images
 
 This is the final implementation of my SoC Project "Cartoonizing Images".
 * Used Pix2Pix gan for mapping real images to cartoon images
+* used patchgan discriminator
 * Dataset used can be found [here](https://www.kaggle.com/datasets/defileroff/comic-faces-paired-synthetic-v2)
-* Notebook can be viewed [here](https://nbviewer.org/github/NiteeshSingh/SOC-Season-Of-Codes/blob/main/Pix2Pix%20for%20Cartoonizing%20Images.ipynb)
 
 
 ### Practice
