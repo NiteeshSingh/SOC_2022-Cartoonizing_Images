@@ -4,7 +4,7 @@ A repo to contain all the codes for the season of codes for summer of 2022 inclu
 
 ## Files Present
 
-###Pix2Pix for Cartoonizing Images
+### Pix2Pix for Cartoonizing Images
 
 This is the final implementation of my SoC Project "Cartoonizing Images".
 * Used Pix2Pix gan for mapping real images to cartoon images
